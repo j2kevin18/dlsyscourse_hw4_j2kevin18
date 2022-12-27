@@ -1,0 +1,5 @@
+{
+  "tests/test_sequence_models.py::submit_language_model": true,
+  "tests/test_sequence_models.py::test_language_model_training[cpu]": true,
+  "tests/test_sequence_models.py::test_language_model_training[cuda]": true
+}
